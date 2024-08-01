@@ -22,7 +22,7 @@
     "chokidar": "^3.6.0",
     "chokidar-cli": "^3.0.0",
     "cssnano": "^6.1.2",
-    "postcss": "^8.4.39",
+    "postcss": "^8.4.40",
     "postcss-cli": "^11.0.0",
     "sass": "^1.77.6",
     "watch": "^1.0.2",
